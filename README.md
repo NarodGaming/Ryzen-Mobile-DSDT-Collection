@@ -15,7 +15,7 @@ This repo is still work in progress, meaning it will be updated periodically to 
 
 2. Paste the downloaded **dsdt.aml** file to `\EFI\CLOVER\ACPI\WINDOWS\`. If you don't see Windows folder, create it and paste inside the folder. **Reboot to Clover and then to Windows to load the dsdt.aml (EVERYTIME)**
 
-The purpose of the Github is to provide different edited/patched dsdts for a hassle-free experience to just downlaod-paste-boot-enjoy  
+The purpose of the Github is to provide different edited/patched dsdts for a hassle-free experience to just download-paste-boot-enjoy  
 
 **EDIT DSDT.AML ON YOUR OWN**  
 Report Your issues in our discord server if you can or in the github itself if you know how to do that. If not then communicate with me/us through our glorious [**Discord Server**](https://discord.gg/qEAfkuA)
