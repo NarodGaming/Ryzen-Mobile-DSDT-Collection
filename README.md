@@ -26,7 +26,9 @@ What we are doing is we edit the ACPI Tables(dsdt) to give us the STAPM limit or
 
 [**Tutorial For STAPM/TDP**](https://www.youtube.com/watch?v=Jre0QfLdJ5A) 
 
-[**Tutorial For Temperature**](https://www.youtube.com/watch?v=w_vV_xpwiho)
+[**Tutorial For Temperature**](https://www.youtube.com/watch?v=w_vV_xpwiho)  
+
+[**Tutorial For Ryzen Mobile Max GPU frequency BOOST**](https://www.reddit.com/r/Amd/comments/alp4zt/ryzen_mobile_max_gpu_frequency_boost/)
 
 Text tutorial to edit your own values into your dsdt can be found [**here**](https://pastebin.com/3wB2k7Ei) first 3 lines would be understood when you see the video combined.
 
