@@ -1,3 +1,10 @@
+# The Ryzen Mobile DSDT Repository
+**Please read the notice below before scrolling any further.**
+
+The purpose of this Github repository is to provide different edited/patched dsdts for a hassle-free experience so you can just download-paste-boot and enjoy!  
+
+This repo is still a work in progress, meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or giving issues. 
+
 # NOTICE
 **Carefully read this README before proceeding**, anything and everything that **happens to you** OR **your laptop is NOT my responsibility**. Continue at your own risk. **Do NOT** use a DSDT from other laptop models or even the same model with a different BIOS. If you do so, you will more than likely get a BSOD saying "ACPI error". This can be easily fixed by booting straight into Windows from the BIOS boot menu to avoid clover and from there you will need to delete the dsdt.aml.
 
@@ -7,15 +14,13 @@ Some DSDTs will have no BIOS number because I don't know the BIOS version for it
 
 [**DSDT**](https://wiki.archlinux.org/index.php/DSDT) (Differentiated System Description Table) is a part of the ACPI specification. It supplies information about supported power events in a given system. ACPI tables are provided in firmware from the manufacturer.
 
-This repo is still a work in progress, meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or possibly giving issues. 
+
 
 ### HOW TO 
 
 1. Install [**Clover Bootloader**](https://drive.google.com/file/d/1RyMn8D_9jE3nce1-ebiNq6CMzyAqfPfW/view) and follow this guide as shown: https://www.youtube.com/watch?v=qhSciG2SKu4
 
 2. Paste the downloaded **dsdt.aml** file to `\EFI\CLOVER\ACPI\WINDOWS\`. If you don't see a `WINDOWS` folder, create it and paste the DSDT inside the folder. Make sure the file is called `dsdt.aml`! **Reboot to Clover and then into Windows to load the dsdt.aml (EVERYTIME YOU BOOT)**
-
-The purpose of this Github repository is to provide different edited/patched dsdts for a hassle-free experience so you can just download-paste-boot and enjoy!  
 
 ### EDITING A DSDT ON YOUR OWN
 
