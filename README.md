@@ -34,7 +34,7 @@ What we are doing is editing the ACPI Tables (dsdt) to change the STAPM limit, T
 
 <details>
   <summary>Tutorial for STAPM / TDP (Power limits)</summary>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Jre0QfLdJ5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Click here for the video](https://img.youtube.com/vi/Jre0QfLdJ5A/0.jpg)](https://www.youtube.com/watch?v=Jre0QfLdJ5A)
 </details>
 
 [**Tutorial For Temperature**](https://www.youtube.com/watch?v=w_vV_xpwiho)
