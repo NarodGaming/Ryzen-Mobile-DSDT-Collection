@@ -1,5 +1,9 @@
 # The Ryzen Mobile DSDT Repository
 
+*DSDT editing is no longer the preffered way of changing STAPM limits or temperature limits.*
+
+*Casual users are now strongly recommended to instead use the STAPM Adjustment tool found [**here**]*(https://github.com/FlyGoat/RyzenAdj)
+
 The purpose of this Github repository is to provide different edited/patched dsdts for a hassle-free experience so you can just download-paste-boot and enjoy!  
 This repo is still a work in progress, meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or giving issues. 
 
@@ -9,6 +13,8 @@ This repo is still a work in progress, meaning it will be updated periodically t
 **Carefully and thoroughly read this README before proceeding**, anything and everything that **happens to you** OR **your laptop is NOT my responsibility**. Continue at your own risk. **Do NOT** use a DSDT from other laptop models or even the same model with a different BIOS. If you do so, you will more than likely get a BSOD saying "ACPI error". This can be easily fixed by booting straight into Windows from the BIOS boot menu to avoid clover and from there you will need to delete the dsdt.aml.
 
 Some DSDTs will have no BIOS number because I don't know the BIOS version for it. If I get those BIOS version numbers, I'll update it as soon as possible.
+
+If you need to find a BIOS installer, you can either find it on your laptop manafacturers website, or use [**this repository**](https://github.com/NarodGaming/Ryzen-Mobile-BIOS-Collection)
 
 ### What is a DSDT?
 
