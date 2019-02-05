@@ -1,8 +1,8 @@
 # The Ryzen Mobile DSDT Repository
 
-*DSDT editing is no longer the preffered way of changing STAPM limits or temperature limits.*
+**DSDT editing is no longer the preffered way of changing STAPM limits or temperature limits.**
 
-*Casual users are now strongly recommended to instead use the STAPM Adjustment tool found [**here**]*(https://github.com/FlyGoat/RyzenAdj)
+**Casual users are now strongly recommended to instead use the STAPM Adjustment tool found** [**here**](https://github.com/FlyGoat/RyzenAdj)
 
 The purpose of this Github repository is to provide different edited/patched dsdts for a hassle-free experience so you can just download-paste-boot and enjoy!  
 This repo is still a work in progress, meaning it will be updated periodically to add new laptop models or remove some files which are obsolete, or giving issues. 
